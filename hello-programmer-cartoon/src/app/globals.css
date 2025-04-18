@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Comic Neue';
+  src: url('/ComicNeue-Bold.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Comic Neue', cursive;
+  background-color: #fff5cc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
